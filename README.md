@@ -1,11 +1,5 @@
 # urbiz-grafana/gitsync-test01
 
-TEST TEST
+THIS IS THE README
 
-REFRESH TEST
-
-SIGN TEST
-
-SIGN TEST FROM PR
-
-SIGN TEST AGAIN FROM UI
+Add any relevant info about your folders and dashboards here.
